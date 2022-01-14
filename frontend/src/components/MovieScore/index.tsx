@@ -3,7 +3,7 @@ import './styles.css';
 
 function MovieScore() {
     const score = 3.5;
-    const count = 15;
+    const count = 13;
 
     return (
         <div className="dsmovie-score-container" >
